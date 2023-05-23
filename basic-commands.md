@@ -7,3 +7,9 @@ cd - <directory-name> - change directory and the name of folder you want to move
 mkdir <directory-name> - make new directory
 
 touch <filename> - creates files
+
+CTRL + C copy to clipboard
+
+CTRL + V - paste
+
+CTRL + S - save file
